@@ -1,292 +1,219 @@
-🕘️更新时间,#genre#
-2026-03-04 11:53:40,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001022/index.m3u8
 
-📺央视频道,#genre#
-CCTV-1,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001022/index.m3u8
-CCTV-1,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030810/1.m3u8
-CCTV-1,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000021973/1.m3u8
-CCTV-1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-CCTV-1,http://[2409:8087:1a0a:df::4038]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
-CCTV-2,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001220/index.m3u8
-CCTV-2,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000012442/1.m3u8
-CCTV-2,http://[2409:8087:1a0a:df::4038]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8
-CCTV-2,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
-CCTV-2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225588/2.m3u8
-CCTV-3,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001186/index.m3u8
-CCTV-3,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000011218/1.m3u8
-CCTV-3,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV-3,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
-CCTV-3,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8
-CCTV-4,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001221/index.m3u8
-CCTV-4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
-CCTV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226428/2.m3u8
-CCTV-4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV-5,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001187/index.m3u8
-CCTV-5,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265005/1.m3u8
-CCTV-5,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-CCTV-5,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV-5,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV-5+,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/index.m3u8
-CCTV-5+,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225603/2.m3u8
-CCTV-5+,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV-5+,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV-5+,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-CCTV-6,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001188/index.m3u8
-CCTV-6,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265006/1.m3u8
-CCTV-6,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
-CCTV-6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226010/2.m3u8
-CCTV-6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV-7,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001236/index.m3u8
-CCTV-7,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265007/1.m3u8
-CCTV-7,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000017218/1.m3u8
-CCTV-7,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000024341/1.m3u8
-CCTV-7,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8
-CCTV-8,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001189/index.m3u8
-CCTV-8,http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-CCTV-8,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV-8,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV-8,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8
-CCTV-9,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001237/index.m3u8
-CCTV-9,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-CCTV-9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV-9,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225734/2.m3u8
-CCTV-9,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV-10,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001238/index.m3u8
-CCTV-10,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000026367/1.m3u8
-CCTV-10,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000012827/1.m3u8
-CCTV-10,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
-CCTV-10,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225730/2.m3u8
-CCTV-11,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001309/index.m3u8
-CCTV-11,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-CCTV-11,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8
-CCTV-11,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225597/2.m3u8
-CCTV-11,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-CCTV-12,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001239/index.m3u8
-CCTV-12,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225731/2.m3u8
-CCTV-12,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
-CCTV-12,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-12,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-13,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001328/index.m3u8
-CCTV-13,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021303/1.m3u8
-CCTV-13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-CCTV-13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226537/2.m3u8
-CCTV-13,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-CCTV-14,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001240/index.m3u8
-CCTV-14,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226591/index.m3u8
-CCTV-14,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225732/2.m3u8
-CCTV-14,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV-14,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV-15,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001338/index.m3u8
-CCTV-15,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/1.m3u8
-CCTV-15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-CCTV-15,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-CCTV-15,http://[2409:8087:1a0a:df::4038]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225601/index.m3u8
-CCTV-16,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001248/index.m3u8
-CCTV-16,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/main.m3u8
-CCTV-16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV-16,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV-16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226100/2.m3u8
-CCTV-17,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001241/index.m3u8
-CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225765/2.m3u8
-CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV-17,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV-17,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CETV-1,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001020/index.m3u8
-CETV-1,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
-CETV-2,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001226/index.m3u8
-CETV-4,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001348/index.m3u8
-CETV-4,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
-
-📡卫视频道,#genre#
-广东卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001032/index.m3u8
-广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226374/index.m3u8
-广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-广东卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225701/2/index.m3u8
-广东卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000014694/1.m3u8
-浙江卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001023/index.m3u8
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226342/index.m3u8
-浙江卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000007275/1.m3u8
-浙江卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000017320/1.m3u8
-浙江卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010070/1.m3u8
-湖南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001026/index.m3u8
-湖南卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000032695/1.m3u8
-湖南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-湖南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225490/2/index.m3u8
-湖南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225610/2.m3u8
-北京卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001029/index.m3u8
-北京卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000031556/1.m3u8
-北京卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-北京卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225728/2.m3u8
-北京卫视,http://[2409:8087:1a0a:df::4010]:80/wh7f454c46tw3521118935_826740184/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-湖北卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001027/index.m3u8
-湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-湖北卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225699/2/index.m3u8
-湖北卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225740/2/index.m3u8
-湖北卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000024621/1.m3u8
-黑龙江卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001031/index.m3u8
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
-黑龙江卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009082/1.m3u8
-黑龙江卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/8/3221226327/index.m3u8
-安徽卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001037/index.m3u8
-安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226498/index.m3u8
-安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-安徽卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000023002/1.m3u8
-安徽卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-重庆卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001129/index.m3u8
-重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-重庆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-重庆卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010053/1.m3u8
-重庆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225618/2.m3u8
-东方卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001013/index.m3u8
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226336/index.m3u8
-东方卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000030202/1.m3u8
-东方卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000032246/1.m3u8
-东方卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-东南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001201/index.m3u8
-东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226377/index.m3u8
-东南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-东南卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-东南卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010096/1.m3u8
-甘肃卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001298/index.m3u8
-甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
-甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226522/index.m3u8
-甘肃卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031121/1.m3u8
-甘肃卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/1.m3u8
-广西卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001224/index.m3u8
-广西卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000019837/1.m3u8
-广西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
-广西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226549/index.m3u8
-广西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226549/2.m3u8
-贵州卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001184/index.m3u8
-贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225626/index.m3u8
-贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226383/index.m3u8
-贵州卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000003169/1.m3u8
-海南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001183/index.m3u8
-海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
-海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226445/index.m3u8
-海南卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006211/index.m3u8
-河北卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001229/index.m3u8
-河北卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040016/1.m3u8
-河北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-河北卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226406/index.m3u8
-河北卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010101/1.m3u8
-河南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001222/index.m3u8
-河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226320/index.m3u8
-河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-河南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-河南卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226480/index.m3u8
-吉林卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001225/index.m3u8
-吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226386/index.m3u8
-吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-吉林卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/6042486520432105075/1.m3u8
-吉林卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-江苏卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001033/index.m3u8
-江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
-江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226495/index.m3u8
-江苏卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000019351/1.m3u8
-江苏卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010059/1.m3u8
-江西卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001034/index.m3u8
-江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226504/index.m3u8
-江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-江西卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268001/1.m3u8
-江西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-辽宁卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001035/index.m3u8
-辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226254/index.m3u8
-辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
-辽宁卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000011671/1.m3u8
-辽宁卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
-内蒙古卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001068/index.m3u8
-内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
-内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
-内蒙古卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000014080/1.m3u8
-内蒙古卫视,http://[2409:8087:1a0a:df::4035]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
-宁夏卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001074/index.m3u8
-宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
-宁夏卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010110/1.m3u8
-宁夏卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225632/2.m3u8
-青海卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001450/index.m3u8
-青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
-青海卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8
-青海卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226323/2.m3u8
-山东卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001028/index.m3u8
-山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226507/index.m3u8
-山东卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/7347081113971056899/1.m3u8
-山东卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000020424/1.m3u8
-山东卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000012807/1.m3u8
-山西卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001070/index.m3u8
-山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
-山西卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021220/1.m3u8
-山西卫视,http://[2409:8087:1a0a:df::402c]:80/wh7f454c46tw3180575873_-409685816/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-陕西卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001067/index.m3u8
-陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
-陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
-陕西卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040017/1.m3u8
-陕西卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000007495/1.m3u8
-四川卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001130/index.m3u8
-四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-四川卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006119/1.m3u8
-四川卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000016825/1.m3u8
-四川卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-深圳卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001030/index.m3u8
-深圳卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000011645/1.m3u8
-深圳卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-深圳卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-深圳卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225739/2.m3u8
-三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
-三沙卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001185/index.m3u8
-三沙卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
-三沙卫视,http://[2409:8087:5e08:24::16]:6610/000000001000/5000000011000288016/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000288016
-三沙卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/4600001000000000117/1.m3u8?channel-id=bestzb&Contentid=4600001000000000117&livemode=1&stbId=3
-天津卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001036/index.m3u8
-天津卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006827/1.m3u8
-天津卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000000831/1.m3u8
-天津卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000001000030788/1.m3u8
-天津卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-西藏卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001072/index.m3u8
-西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
-西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
-西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
-西藏卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/6603041244077933770/1.m3u8
-新疆卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001065/index.m3u8
-新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
-新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
-新疆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000029441/1.m3u8
-新疆卫视,http://[2409:8087:1a0a:df::4038]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226460/index.m3u8
-云南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001223/index.m3u8
-云南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-云南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226444/2.m3u8
-云南卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-云南卫视,http://[2409:8087:1a0a:df::4036]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-
-☘️广东频道,#genre#
-广东珠江,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000003000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000033&yang-1989
-广东珠江,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/index.m3u8
-广东珠江,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
-广东珠江,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000003000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000033&IASHttpSessionId=OTT19019320240419154124000281
-广东珠江,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000033&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
-广东卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001032/index.m3u8
-广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226374/index.m3u8
-广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-广东卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225701/2/index.m3u8
-广东卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000014694/1.m3u8
-大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
-大湾区卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
-大湾区卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000011619/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=3
-大湾区卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8?
-大湾区卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/1.m3u8
-广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
-广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=751b5ecd94a0d9d34c7e37e25bb8b27a&txTime=193108637cb
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
-深圳卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001030/index.m3u8
-深圳卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000011645/1.m3u8
-深圳卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-深圳卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-深圳卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225739/2.m3u8
+                      
+#EXTM3U x-tvg-url="https://123.tv1288.xyz/2026.xml"
+#EXTINF:-1 tvg-name="0304/10:41" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/0304/10:41.png" group-title="更新时间",抖音0304/10:41
+https://2025.xn--jfx065ba424q.top/1.m3u8
+#EXTINF:-1 tvg-name="1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/1.png" group-title="更新时间",盲盒点歌1
+https://2025.xn--jfx065ba424q.top/1.m3u8
+#EXTINF:-1 tvg-name="2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/2.png" group-title="更新时间",盲盒点歌2
+https://2025.xn--jfx065ba424q.top/1.m3u8
+#EXTINF:-1 tvg-name="https://tv1288.xyz/douyin.php?type=rid&rid=32550211000" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/https://tv1288.xyz/douyin.php?type=rid&rid=32550211000.png" group-title="更新时间",https://tv1288.xyz/douyin.php?type=rid&rid=32550211000
+undefined
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="咪咕央卫",CCTV1
+http://42.121.106.99:443/608807420
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="咪咕央卫",CCTV2
+http://42.121.106.99:443/631780532
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" group-title="咪咕央卫",CCTV3
+http://42.121.106.99:443/624878271
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="咪咕央卫",CCTV4
+http://42.121.106.99:443/631780421
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" group-title="咪咕央卫",CCTV5
+http://42.121.106.99:443/641886683
+#EXTINF:-1 tvg-name="CCTV5plus" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" group-title="咪咕央卫",CCTV5+
+http://42.121.106.99:443/641886773
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV6.png" group-title="咪咕央卫",CCTV6
+http://42.121.106.99:443/624878396
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" group-title="咪咕央卫",CCTV7
+http://42.121.106.99:443/673168121
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8.png" group-title="咪咕央卫",CCTV8
+http://42.121.106.99:443/624878356
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" group-title="咪咕央卫",CCTV9
+http://42.121.106.99:443/673168140
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" group-title="咪咕央卫",CCTV10
+http://42.121.106.99:443/624878405
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV11.png" group-title="咪咕央卫",CCTV11
+http://42.121.106.99:443/667987558
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV12.png" group-title="咪咕央卫",CCTV12
+http://42.121.106.99:443/673168185
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="咪咕央卫",CCTV13
+http://42.121.106.99:443/608807423
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV14.png" group-title="咪咕央卫",CCTV14
+http://42.121.106.99:443/624878440
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="咪咕央卫",CCTV15
+http://42.121.106.99:443/673168223
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" group-title="咪咕央卫",CCTV17
+http://42.121.106.99:443/673168256
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="咪咕央卫",CCTV4欧洲
+http://42.121.106.99:443/608807419
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="咪咕央卫",CCTV4美洲
+http://42.121.106.99:443/608807416
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",赛事最经典
+http://42.121.106.99:443/646596895
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",体坛名栏汇
+http://42.121.106.99:443/629943305
+#EXTINF:-1 tvg-name="shdy" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/shdy.png" group-title="咪咕央卫",四海钓鱼
+http://42.121.106.99:443/637444975
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",陕西体育
+http://42.121.106.99:443/956909356
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",辽宁体育
+http://42.121.106.99:443/962067526
+#EXTINF:-1 tvg-name="Dongfang" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" group-title="咪咕央卫",东方卫视
+http://42.121.106.99:443/651632648
+#EXTINF:-1 tvg-name="Jiangsu" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" group-title="咪咕央卫",江苏卫视
+http://42.121.106.99:443/623899368
+#EXTINF:-1 tvg-name="Guangdong" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="咪咕央卫",广东卫视
+http://42.121.106.99:443/608831231
+#EXTINF:-1 tvg-name="Beijing" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="咪咕央卫",北京卫视
+http://42.121.106.99:443/630287636
+#EXTINF:-1 tvg-name="Liaoning" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Liaoning.png" group-title="咪咕央卫",辽宁卫视
+http://42.121.106.99:443/630291707
+#EXTINF:-1 tvg-name="Hebei" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hebei.png" group-title="咪咕央卫",河北卫视
+http://42.121.106.99:443/962042070
+#EXTINF:-1 tvg-name="Jiangxi" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangxi.png" group-title="咪咕央卫",江西卫视
+http://42.121.106.99:443/783847495
+#EXTINF:-1 tvg-name="Shanxi" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi.png" group-title="咪咕央卫",陕西卫视
+http://42.121.106.99:443/738910838
+#EXTINF:-1 tvg-name="Hubei" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hubei.png" group-title="咪咕央卫",湖北卫视
+http://42.121.106.99:443/947472496
+#EXTINF:-1 tvg-name="Nonglin" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Nonglin.png" group-title="咪咕央卫",农林卫视
+http://42.121.106.99:443/956904896
+#EXTINF:-1 tvg-name="Bingtuan" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Bingtuan.png" group-title="咪咕央卫",兵团卫视
+http://42.121.106.99:443/956923145
+#EXTINF:-1 tvg-name="Shanghai1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanghai1.png" group-title="咪咕央卫",上海新闻综合
+http://42.121.106.99:443/651632657
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",上视东方影视
+http://42.121.106.99:443/617290047
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",公共新闻频道
+http://42.121.106.99:443/626064693
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",盐城新闻综合
+http://42.121.106.99:443/639731825
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",江阴新闻综合
+http://42.121.106.99:443/955227979
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",南通新闻综合
+http://42.121.106.99:443/955227985
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",宜兴新闻综合
+http://42.121.106.99:443/955227996
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",溧水新闻综合
+http://42.121.106.99:443/639737327
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",陕西银龄频道
+http://42.121.106.99:443/956909362
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",陕西都市青春频道
+http://42.121.106.99:443/956909358
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",陕西秦腔频道
+http://42.121.106.99:443/956909303
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",陕西新闻资讯频道
+http://42.121.106.99:443/956909289
+#EXTINF:-1 tvg-name="cftx" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cftx.png" group-title="咪咕央卫",财富天下
+http://42.121.106.99:443/956923159
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",辽宁公共频道
+http://42.121.106.99:443/962045223
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",辽宁生活频道
+http://42.121.106.99:443/962045226
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",辽宁影视剧频道
+http://42.121.106.99:443/962067517
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",宁夏文旅频道
+http://42.121.106.99:443/962067523
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",宁夏经济频道
+http://42.121.106.99:443/962067520
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",经典香港电影
+http://42.121.106.99:443/625703337
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",抗战经典影片
+http://42.121.106.99:443/617432318
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",新片放映厅
+http://42.121.106.99:443/619495952
+#EXTINF:-1 tvg-name="CHC" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC.png" group-title="咪咕央卫",CHC影迷电影
+http://42.121.106.99:443/952383261
+#EXTINF:-1 tvg-name="CHC3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC3.png" group-title="咪咕央卫",CHC动作电影
+http://42.121.106.99:443/644368714
+#EXTINF:-1 tvg-name="CHC2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC2.png" group-title="咪咕央卫",CHC家庭影院
+http://42.121.106.99:443/644368373
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",和美乡途轮播台
+http://42.121.106.99:443/713591450
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",最强综艺趴
+http://42.121.106.99:443/629942228
+#EXTINF:-1 tvg-name=" VS  00:20" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ VS  00:20.png" group-title="体育-昨天",男篮世预赛 立陶宛VS冰岛 全场回放（原声） 00:20
+http://42.121.106.99:443/963375527
+#EXTINF:-1 tvg-name=" VS  00:50" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ VS  00:50.png" group-title="体育-昨天",男篮世预赛 格鲁吉亚VS丹麦 全场回放（原声） 00:50
+http://42.121.106.99:443/963375584
+#EXTINF:-1 tvg-name=" VS  00:50" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ VS  00:50.png" group-title="体育-昨天",男篮世预赛 罗马尼亚VS葡萄牙 全场回放（原声） 00:50
+http://42.121.106.99:443/963375659
+#EXTINF:-1 tvg-name=" VS  01:15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ VS  01:15.png" group-title="体育-昨天",意甲 比萨VS博洛尼亚 全场回放（谭逸雄） 01:15
+http://42.121.106.99:443/963375413
+#EXTINF:-1 tvg-name=" VS  01:50" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ VS  01:50.png" group-title="体育-昨天",男篮世预赛 黑山VS希腊 全场回放（原声） 01:50
+http://42.121.106.99:443/963375654
+#EXTINF:-1 tvg-name=" VS  01:50" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ VS  01:50.png" group-title="体育-昨天",男篮世预赛 瑞士VS波黑 全场回放（原声） 01:50
+http://42.121.106.99:443/963375581
+#EXTINF:-1 tvg-name=" VS  01:50" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ VS  01:50.png" group-title="体育-昨天",男篮世预赛 土耳其VS塞尔维亚 全场回放（原声） 01:50
+http://42.121.106.99:443/963375567
+#EXTINF:-1 tvg-name=" VS  02:20" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ VS  02:20.png" group-title="体育-昨天",男篮世预赛 意大利VS英国 全场回放（原声） 02:20
+http://42.121.106.99:443/963375706
+#EXTINF:-1 tvg-name=" VS  03:20" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ VS  03:20.png" group-title="体育-昨天",男篮世预赛 西班牙VS乌克兰 全场回放（原声） 03:20
+http://42.121.106.99:443/963375755
+#EXTINF:-1 tvg-name=" VS  03:30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ VS  03:30.png" group-title="体育-昨天",意甲 乌迪内斯VS佛罗伦萨 全场回放（吴奕博） 03:30
+http://42.121.106.99:443/963375662
+#EXTINF:-1 tvg-name=" VS  03:45" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ VS  03:45.png" group-title="体育-昨天",西甲 皇家马德里VS赫塔菲 全场回放（刘畅、孙雷） 03:45
+http://42.121.106.99:443/963375685
+#EXTINF:-1 tvg-name=" VS  05:20" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ VS  05:20.png" group-title="体育-昨天",男篮世预赛 阿根廷VS巴拿马 全场回放（原声） 05:20
+http://42.121.106.99:443/963376370
+#EXTINF:-1 tvg-name=" VS  05:50" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ VS  05:50.png" group-title="体育-昨天",男篮世预赛 巴西VS哥伦比亚 全场回放（原声） 05:50
+http://42.121.106.99:443/963377351
+#EXTINF:-1 tvg-name=" VS  06:50" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ VS  06:50.png" group-title="体育-昨天",男篮世预赛 智利VS委内瑞拉 全场回放（原声） 06:50
+http://42.121.106.99:443/963377740
+#EXTINF:-1 tvg-name="NBA VS  07:55" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NBA VS  07:55.png" group-title="体育-昨天",NBA 奇才VS火箭 全场回放（孙博、周鹏、秋童） 07:55
+http://42.121.106.99:443/963378809
+#EXTINF:-1 tvg-name="NBA VS  07:55" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NBA VS  07:55.png" group-title="体育-昨天",NBA 奇才VS火箭 全场回放（英文原声） 07:55
+http://42.121.106.99:443/963380691
+#EXTINF:-1 tvg-name=" VS  07:50" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ VS  07:50.png" group-title="体育-昨天",男篮世预赛 古巴VS乌拉圭 全场回放 07:50
+http://42.121.106.99:443/963379549
+#EXTINF:-1 tvg-name="NBA VS  08:25" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NBA VS  08:25.png" group-title="体育-昨天",NBA 雄鹿VS凯尔特人 全场回放（蔡凯臣、季孟年） 08:25
+http://42.121.106.99:443/963378940
+#EXTINF:-1 tvg-name="NBA VS  08:25" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NBA VS  08:25.png" group-title="体育-昨天",NBA 雄鹿VS凯尔特人 全场回放（英文原声） 08:25
+http://42.121.106.99:443/963380910
+#EXTINF:-1 tvg-name="NBA VS  09:55" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NBA VS  09:55.png" group-title="体育-昨天",NBA 爵士VS掘金 全场回放（吴博文） 09:55
+http://42.121.106.99:443/963381646
+#EXTINF:-1 tvg-name="NBA VS  09:55" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NBA VS  09:55.png" group-title="体育-昨天",NBA 爵士VS掘金 全场回放（英文原声） 09:55
+http://42.121.106.99:443/963382292
+#EXTINF:-1 tvg-name=" VS  09:45" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ VS  09:45.png" group-title="体育-昨天",女足亚洲杯 朝鲜女足VS乌兹别克斯坦女足 全场回放（涂远） 09:45
+http://42.121.106.99:443/963381216
+#EXTINF:-1 tvg-name="NBA VS  10:55" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NBA VS  10:55.png" group-title="体育-昨天",NBA 勇士VS快船 全场回放（杨健、王润陶、小七） 10:55
+http://42.121.106.99:443/963382504
+#EXTINF:-1 tvg-name="NBA VS  10:55" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NBA VS  10:55.png" group-title="体育-昨天",NBA 勇士VS快船 全场回放（拜月宁） 10:55
+http://42.121.106.99:443/963382431
+#EXTINF:-1 tvg-name="NBA VS  10:55" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NBA VS  10:55.png" group-title="体育-昨天",NBA 勇士VS快船 全场回放（莫俊祺） 10:55
+http://42.121.106.99:443/963382452
+#EXTINF:-1 tvg-name="NBA VS  10:55" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NBA VS  10:55.png" group-title="体育-昨天",NBA 勇士VS快船 全场回放（英文原声） 10:55
+http://42.121.106.99:443/963383497
+#EXTINF:-1 tvg-name=" VS  15:30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ VS  15:30.png" group-title="体育-昨天",亚冠精英 墨尔本城VS武里南联 全场回放（鲁靖明） 15:30
+http://42.121.106.99:443/963387013
+#EXTINF:-1 tvg-name=" VS  15:45" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ VS  15:45.png" group-title="体育-昨天",女足亚洲杯 中国女足VS孟加拉女足 全场回放（吴桐、贺宇） 15:45
+http://42.121.106.99:443/963387238
+#EXTINF:-1 tvg-name=" VS  17:07" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ VS  17:07.png" group-title="体育-昨天",女篮俱乐部杯 北京首钢园VS江苏南钢 全场回放（原声） 17:07
+http://42.121.106.99:443/963388315
+#EXTINF:-1 tvg-name=" FCVS  17:45" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ FCVS  17:45.png" group-title="体育-昨天",亚冠精英 江原FCVS町田泽维亚 全场回放（张昊泽） 17:45
+http://42.121.106.99:443/963388371
+#EXTINF:-1 tvg-name="BWF   2026BWFDay1 19:30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BWF   2026BWFDay1 19:30.png" group-title="体育-昨天",BWF 李诗沣晋级 石宇奇遗憾止步首轮 2026BWF英国羽毛球公开赛Day1三号场全场回放（二） 19:30
+http://42.121.106.99:443/963394861
+#EXTINF:-1 tvg-name="BWF   1-2 19:30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BWF   1-2 19:30.png" group-title="体育-昨天",BWF 李诗沣晋级 石宇奇遗憾止步首轮 【回放】石宇奇1-2拉克什亚（鸿昆） 19:30
+http://42.121.106.99:443/963390132
+#EXTINF:-1 tvg-name="BWF   /2-0/ 19:30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BWF   /2-0/ 19:30.png" group-title="体育-昨天",BWF 李诗沣晋级 石宇奇遗憾止步首轮 【回放】梁伟铿/王昶2-0野村拓海/霜上雄一（鸿昆） 19:30
+http://42.121.106.99:443/963391466
+#EXTINF:-1 tvg-name="BWF   2-1 19:30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BWF   2-1 19:30.png" group-title="体育-昨天",BWF 李诗沣晋级 石宇奇遗憾止步首轮 【回放】李诗沣2-1王正行（孙宁智） 19:30
+http://42.121.106.99:443/963390834
+#EXTINF:-1 tvg-name="BWF   2-0 19:30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BWF   2-0 19:30.png" group-title="体育-昨天",BWF 李诗沣晋级 石宇奇遗憾止步首轮 【回放】李卓耀2-0翁泓阳（余博洋） 19:30
+http://42.121.106.99:443/963391126
+#EXTINF:-1 tvg-name="BWF   2-0 19:30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BWF   2-0 19:30.png" group-title="体育-昨天",BWF 李诗沣晋级 石宇奇遗憾止步首轮 【回放】陈雨菲2-0马尔维卡（孙宁智） 19:30
+http://42.121.106.99:443/963388433
+#EXTINF:-1 tvg-name="BWF   /2-0/ 19:30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BWF   /2-0/ 19:30.png" group-title="体育-昨天",BWF 李诗沣晋级 石宇奇遗憾止步首轮 【回放】刘圣书/谭宁2-0胡绫芳/郑宇倢（孙宁智） 19:30
+http://42.121.106.99:443/963388148
+#EXTINF:-1 tvg-name="BWF   /2-0/ 19:30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BWF   /2-0/ 19:30.png" group-title="体育-昨天",BWF 李诗沣晋级 石宇奇遗憾止步首轮 【回放】贾一凡/张殊贤2-0阿莱西娅/费比（余博洋） 19:30
+http://42.121.106.99:443/963390596
+#EXTINF:-1 tvg-name="BWF   /2-1/ 19:30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BWF   /2-1/ 19:30.png" group-title="体育-昨天",BWF 李诗沣晋级 石宇奇遗憾止步首轮 【回放】冯彦哲/黄东萍2-1许永凯/维德佳佳（鸿昆） 19:30
+http://42.121.106.99:443/963388077
+#EXTINF:-1 tvg-name="BWF   2-0 19:30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BWF   2-0 19:30.png" group-title="体育-昨天",BWF 李诗沣晋级 石宇奇遗憾止步首轮 【回放】李文珊2-0高昉洁（鸿昆） 19:30
+http://42.121.106.99:443/963388583
+#EXTINF:-1 tvg-name="BWF   1-2 19:30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BWF   1-2 19:30.png" group-title="体育-昨天",BWF 李诗沣晋级 石宇奇遗憾止步首轮 【回放】拉尼尔1-2赖浩俊 19:30
+http://42.121.106.99:443/963391031
+#EXTINF:-1 tvg-name="BWF   2-0 19:30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BWF   2-0 19:30.png" group-title="体育-昨天",BWF 李诗沣晋级 石宇奇遗憾止步首轮 【回放】安洗莹2-0伊吉特 19:30
+http://42.121.106.99:443/963389055
+#EXTINF:-1 tvg-name="BWF   /2-0/ 19:30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BWF   /2-0/ 19:30.png" group-title="体育-昨天",BWF 李诗沣晋级 石宇奇遗憾止步首轮 【回放】金元浩/徐承宰2-0本·莱恩/文迪（余博洋） 19:30
+http://42.121.106.
