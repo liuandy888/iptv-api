@@ -131,6 +131,156 @@ http://42.121.106.99:443/644368373
 http://42.121.106.99:443/713591450
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",最强综艺趴
 http://42.121.106.99:443/629942228
+#EXTM3U
+#EXTINF:-1 group-title="广东移动",梅州1
+http://183.234.143.5:9901/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="广东移动",中国天气
+http://183.234.143.5:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="广东移动",五华1高清
+http://183.234.143.5:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 group-title="广东移动",梅州2
+http://183.234.143.5:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 group-title="广东移动",凤凰中文
+http://183.234.143.5:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 group-title="广东移动",明珠台
+http://183.234.143.5:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="广东移动",翡翠台
+http://183.234.143.5:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 group-title="广东移动",广东卫视高清
+http://183.234.143.5:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1 group-title="广东移动",广东珠江高清
+http://183.234.143.5:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1 group-title="广东移动",广东新闻
+http://183.234.143.5:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="广东移动",广东公共
+http://183.234.143.5:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="广东移动",广东体育高清
+http://183.234.143.5:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1 group-title="广东移动",南方一高清
+http://183.234.143.5:9901/tsfile/live/1016_1.m3u8
+#EXTINF:-1 group-title="广东移动",南方二高清
+http://183.234.143.5:9901/tsfile/live/1017_1.m3u8
+#EXTINF:-1 group-title="广东移动",南方四高清
+http://183.234.143.5:9901/tsfile/live/1018_1.m3u8
+#EXTINF:-1 group-title="广东移动",南方五高清
+http://183.234.143.5:9901/tsfile/live/1019_1.m3u8
+#EXTINF:-1 group-title="广东移动",CCTV-1高清
+http://183.234.143.5:9901/tsfile/live/1020_1.m3u8
+#EXTINF:-1 group-title="广东移动",CCTV-2高清
+http://183.234.143.5:9901/tsfile/live/1021_1.m3u8
+#EXTINF:-1 group-title="广东移动",CCTV-3高清
+http://183.234.143.5:9901/tsfile/live/1022_1.m3u8
+#EXTINF:-1 group-title="广东移动",CCTV-4高清
+http://183.234.143.5:9901/tsfile/live/1023_1.m3u8
+#EXTINF:-1 group-title="广东移动",CCTV-5高清
+http://183.234.143.5:9901/tsfile/live/1024_1.m3u8
+#EXTINF:-1 group-title="广东移动",CCTV-5+高清
+http://183.234.143.5:9901/tsfile/live/1025_1.m3u8
+#EXTINF:-1 group-title="广东移动",CCTV-6高清
+http://183.234.143.5:9901/tsfile/live/1026_1.m3u8
+#EXTINF:-1 group-title="广东移动",CCTV-7高清
+http://183.234.143.5:9901/tsfile/live/1027_1.m3u8
+#EXTINF:-1 group-title="广东移动",CCTV-8高清
+http://183.234.143.5:9901/tsfile/live/1028_1.m3u8
+#EXTINF:-1 group-title="广东移动",CCTV-9高清
+http://183.234.143.5:9901/tsfile/live/1029_1.m3u8
+#EXTINF:-1 group-title="广东移动",CCTV-10高清
+http://183.234.143.5:9901/tsfile/live/1030_1.m3u8
+#EXTINF:-1 group-title="广东移动",CCTV-11高清
+http://183.234.143.5:9901/tsfile/live/1031_1.m3u8
+#EXTINF:-1 group-title="广东移动",CCTV-12高清
+http://183.234.143.5:9901/tsfile/live/1032_1.m3u8
+#EXTINF:-1 group-title="广东移动",CCTV-13
+http://183.234.143.5:9901/tsfile/live/1033_1.m3u8
+#EXTINF:-1 group-title="广东移动",CCTV-14高清
+http://183.234.143.5:9901/tsfile/live/1034_1.m3u8
+#EXTINF:-1 group-title="广东移动",CCTV-15高清
+http://183.234.143.5:9901/tsfile/live/1035_1.m3u8
+#EXTINF:-1 group-title="广东移动",CCTV-17高清
+http://183.234.143.5:9901/tsfile/live/1036_1.m3u8
+#EXTINF:-1 group-title="广东移动",少儿卫视
+http://183.234.143.5:9901/tsfile/live/1039_1.m3u8
+#EXTINF:-1 group-title="广东移动",金鹰卡通
+http://183.234.143.5:9901/tsfile/live/1040_1.m3u8
+#EXTINF:-1 group-title="广东移动",炫动卡通
+http://183.234.143.5:9901/tsfile/live/1041_1.m3u8
+#EXTINF:-1 group-title="广东移动",嘉佳卡通
+http://183.234.143.5:9901/tsfile/live/1042_1.m3u8
+#EXTINF:-1 group-title="广东移动",少儿动画
+http://183.234.143.5:9901/tsfile/live/1044_1.m3u8
+#EXTINF:-1 group-title="广东移动",经典电影
+http://183.234.143.5:9901/tsfile/live/1045_1.m3u8
+#EXTINF:-1 group-title="广东移动",谍战剧场
+http://183.234.143.5:9901/tsfile/live/1046_1.m3u8
+#EXTINF:-1 group-title="广东移动",湖南卫视高清
+http://183.234.143.5:9901/tsfile/live/1047_1.m3u8
+#EXTINF:-1 group-title="广东移动",浙江卫视高清
+http://183.234.143.5:9901/tsfile/live/1048_1.m3u8
+#EXTINF:-1 group-title="广东移动",江苏卫视高清
+http://183.234.143.5:9901/tsfile/live/1049_1.m3u8
+#EXTINF:-1 group-title="广东移动",东方卫视高清
+http://183.234.143.5:9901/tsfile/live/1050_1.m3u8
+#EXTINF:-1 group-title="广东移动",黑龙江卫视高清
+http://183.234.143.5:9901/tsfile/live/1054_1.m3u8
+#EXTINF:-1 group-title="广东移动",北京卫视高清
+http://183.234.143.5:9901/tsfile/live/1055_1.m3u8
+#EXTINF:-1 group-title="广东移动",天津卫视高清
+http://183.234.143.5:9901/tsfile/live/1056_1.m3u8
+#EXTINF:-1 group-title="广东移动",山东卫视高清
+http://183.234.143.5:9901/tsfile/live/1057_1.m3u8
+#EXTINF:-1 group-title="广东移动",江西卫视高清
+http://183.234.143.5:9901/tsfile/live/1058_1.m3u8
+#EXTINF:-1 group-title="广东移动",深圳卫视高清
+http://183.234.143.5:9901/tsfile/live/1059_1.m3u8
+#EXTINF:-1 group-title="广东移动",湖北卫视高清
+http://183.234.143.5:9901/tsfile/live/1060_1.m3u8
+#EXTINF:-1 group-title="广东移动",辽宁卫视高清
+http://183.234.143.5:9901/tsfile/live/1061_1.m3u8
+#EXTINF:-1 group-title="广东移动",贵州卫视高清
+http://183.234.143.5:9901/tsfile/live/1062_1.m3u8
+#EXTINF:-1 group-title="广东移动",四川卫视高清
+http://183.234.143.5:9901/tsfile/live/1063_1.m3u8
+#EXTINF:-1 group-title="广东移动",安徽卫视高清
+http://183.234.143.5:9901/tsfile/live/1065_1.m3u8
+#EXTINF:-1 group-title="广东移动",中国教育高清
+http://183.234.143.5:9901/tsfile/live/1066_1.m3u8
+#EXTINF:-1 group-title="广东移动",重庆卫视高清
+http://183.234.143.5:9901/tsfile/live/1068_1.m3u8
+#EXTINF:-1 group-title="广东移动",河北卫视高清
+http://183.234.143.5:9901/tsfile/live/1069_1.m3u8
+#EXTINF:-1 group-title="广东移动",东南卫视高清
+http://183.234.143.5:9901/tsfile/live/1070_1.m3u8
+#EXTINF:-1 group-title="广东移动",吉林卫视高清
+http://183.234.143.5:9901/tsfile/live/1071_1.m3u8
+#EXTINF:-1 group-title="广东移动",广西卫视高清
+http://183.234.143.5:9901/tsfile/live/1072_1.m3u8
+#EXTINF:-1 group-title="广东移动",电视指南高清
+http://183.234.143.5:9901/tsfile/live/1074_1.m3u8
+#EXTINF:-1 group-title="广东移动",河南卫视
+http://183.234.143.5:9901/tsfile/live/1085_1.m3u8
+#EXTINF:-1 group-title="广东移动",梅州导视
+http://183.234.143.5:9901/tsfile/live/1086_1.m3u8
+#EXTINF:-1 group-title="广东移动",陕西卫视
+http://183.234.143.5:9901/tsfile/live/1087_1.m3u8
+#EXTINF:-1 group-title="广东移动",山西卫视
+http://183.234.143.5:9901/tsfile/live/1088_1.m3u8
+#EXTINF:-1 group-title="广东移动",导视高清
+http://183.234.143.5:9901/tsfile/live/1089_1.m3u8
+#EXTINF:-1 group-title="广东移动",青海卫视
+http://183.234.143.5:9901/tsfile/live/1090_1.m3u8
+#EXTINF:-1 group-title="广东移动",娱乐
+http://183.234.143.5:9901/tsfile/live/1091_1.m3u8
+#EXTINF:-1 group-title="广东移动",纪实科教
+http://183.234.143.5:9901/tsfile/live/1092_1.m3u8
+#EXTINF:-1 group-title="广东移动",宁夏卫视
+http://183.234.143.5:9901/tsfile/live/1093_1.m3u8
+#EXTINF:-1 group-title="广东移动",西藏卫视
+http://183.234.143.5:9901/tsfile/live/1094_1.m3u8
+#EXTINF:-1 group-title="广东移动",甘肃卫视
+http://183.234.143.5:9901/tsfile/live/1096_1.m3u8
+#EXTINF:-1 group-title="广东移动",TVB星河
+http://183.234.143.5:9901/tsfile/live/1099_1.m3u8
+
 #EXTINF:-1 tvg-name=" VS  00:20" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ VS  00:20.png" group-title="体育-昨天",男篮世预赛 立陶宛VS冰岛 全场回放（原声） 00:20
 http://42.121.106.99:443/963375527
 #EXTINF:-1 tvg-name=" VS  00:50" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ VS  00:50.png" group-title="体育-昨天",男篮世预赛 格鲁吉亚VS丹麦 全场回放（原声） 00:50
